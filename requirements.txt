@@ -1,0 +1,10 @@
+crewai[tools]
+streamlit
+sentence-transformers
+langchain_huggingface
+duckduckgo-search
+litellm
+langchain-openai
+langchain-community
+google-generativeai
+python-dotenv
